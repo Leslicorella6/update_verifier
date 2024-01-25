@@ -1,4 +1,4 @@
-# Test ZIPs designed to test the asserts
+# Test ZIPs python3 update_verifier.py lineageos_pubkey /path/to/zip to test the asserts
 
 All are signed with `key` unless otherwise specified
 
